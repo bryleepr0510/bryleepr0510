@@ -1,70 +1,149 @@
-# 🚀 Hello, I'm Bryan Rivera
+# 🚀 Bryan Rivera
 
 ### 💡 Turning Ideas Into Software. Complexity Into Clarity.
 
-**💻 Software Creator | 🚀 SaaS Founder | 🤖 AI-Assisted Developer | Technology Enthusiast**
+**💻 Software Creator | 🚀 SaaS Founder | 🤖 AI-First Developer | 🔐 Security-Minded Builder**
 
 I believe great technology starts with curiosity and a simple question: **What if there's a better way?**
 
-I'm an independent software creator passionate about transforming ambitious ideas into functional digital products.
+I'm an independent software creator passionate about transforming ambitious ideas into useful digital products. I combine creativity, problem solving, and technology to build applications that simplify complicated processes and deliver real value.
 
-I combine creativity, problem solving, and modern development technologies, including **AI-assisted coding tools**, to design, build, and continuously improve software applications.
+**AI is my primary tool for coding, but I code too.** I write, edit, review, debug, and test code myself while using AI to accelerate development, explore solutions, and grow my technical skills. AI helps me build faster, but I remain responsible for the ideas, product decisions, and results.
 
-I see AI as a powerful development partner that helps me accelerate coding, troubleshoot problems, explore solutions, and bring ideas to life. I believe understanding the problem, making thoughtful decisions, and delivering meaningful products are just as important as writing the code itself.
+From business management software to scientific data analysis, I enjoy building across different industries rather than limiting myself to one type of application.
 
-From business management platforms to scientific data analysis tools, I'm constantly learning, experimenting, and pushing the boundaries of what I can create.
+## 🛠️ What I'm Building
 
-### 🛠️ What I'm Building
+### 🏢 [Kasmerik](https://www.kasmerik.com) | Workforce & Business Management
 
-**🏢 [Kasmerik](https://www.kasmerik.com) | Workforce & Business Management**
-
-A SaaS platform designed to simplify workforce coordination, scheduling, and business operations.
+A SaaS platform designed to simplify workforce coordination, scheduling, and everyday business operations.
 
 - 📅 Workforce scheduling and management
-- ⚙️ Workflow optimization and automation
+- ⚙️ Workflow organization and automation
 - 📊 Business operations and organizational tools
-- ☁️ Scalable SaaS solutions
+- ☁️ Scalable SaaS experiences
 
-**🔬 [Vexar](https://www.kasmerik.com/vexar) | Particle Intelligence & Cleanroom Analytics**
+**Explore:** [kasmerik.com](https://www.kasmerik.com)
 
-*Making the invisible measurable.*
+### 🔬 [Vexar](https://www.kasmerik.com/vexar) | Particle Intelligence & Cleanroom Analytics
 
-A specialized desktop application that transforms raw optical particle counter data into meaningful insights for contamination-sensitive environments.
+**Making the invisible measurable.**
 
-- 🔬 ISO 14644-1:2015 per-location evaluations
-- 📊 Multi-channel airborne particle analysis
-- 📈 Particle trends and data visualization
-- ✅ Automated pass/fail evaluations
-- 🔐 SHA-256 data integrity verification
-- 📄 Structured reporting and analytics
+Vexar is a specialized desktop application for transforming raw optical particle counter CSV data into structured evaluations, visual analytics, and reports for contamination-sensitive environments.
 
-### 🤖 How I Use AI in Development
+- 🔬 ISO 14644-1:2015 per-location particle evaluations
+- 📊 Multi-channel airborne particle analysis from 0.1 µm to 10.0 µm
+- 📈 Particle concentration trends and visual analytics
+- ✅ Clear pass/fail results for evaluated sampling locations
+- 🔐 SHA-256 integrity checks for imported data
+- 📄 Structured PDF evaluation reports
 
-I embrace AI-assisted development as part of my software creation process.
+Designed for use cases in precision cleanrooms, semiconductor manufacturing, pharmaceutical environments, and other controlled spaces. **Vexar supports analysis and reporting; it does not replace accredited cleanroom certification.**
 
-- 💻 **AI-Assisted Coding:** Using AI tools to help write, refine, and optimize code.
-- 🧠 **Problem Solving:** Exploring technical approaches, debugging issues, and evaluating solutions.
-- 🏗️ **Application Architecture:** Using AI to assist with designing and organizing software components.
-- ⚡ **Rapid Prototyping:** Transforming product concepts into functional applications more efficiently.
-- 📚 **Continuous Learning:** Using AI to understand unfamiliar technologies, programming concepts, and development practices.
-- 🔍 **Code Review:** Analyzing implementations and identifying potential improvements.
+**Explore:** [kasmerik.com/vexar](https://www.kasmerik.com/vexar)
 
-**My philosophy:** AI accelerates development, but human creativity, direction, critical thinking, and accountability remain essential.
+## 🤖 How I Build With AI
 
-### 🌱 What I'm Learning & Exploring
+AI isn't an occasional shortcut in my workflow. **It's my main coding tool, alongside hands-on development.**
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Full Stack Software Development
-- ☁️ Cloud Computing & SaaS Architecture
-- ⚙️ Intelligent Automation
-- 📊 Data Analytics & Visualization
-- 🎨 UI/UX Design
-- 🔐 Software Security & Data Integrity
-- 🚀 Digital Entrepreneurship
+- 💻 **Hands-on coding:** I write, edit, test, and troubleshoot code myself.
+- 🤖 **AI-first development:** I use AI tools to generate, explain, and refine implementations.
+- 🧠 **Problem solving:** I break down requirements and evaluate technical approaches.
+- 🏗️ **Architecture:** I work through features, components, integrations, and data flows.
+- ⚡ **Rapid prototyping:** I turn ideas into functional iterations efficiently.
+- 🔍 **Code review:** I inspect AI-generated and manually written code and look for improvements.
+- 📚 **Continuous learning:** I use hands-on projects and AI to understand new technologies.
 
-### 🎯 My Mission
+**My philosophy:** AI accelerates development. Human creativity, critical thinking, verification, and accountability guide what gets built.
 
-- 💡 Transform real-world problems into intuitive software solutions.
+## 🔐 Security-First Development | OWASP
+
+**OWASP guidance is my security baseline.** I use resources from the [Open Worldwide Application Security Project (OWASP)](https://owasp.org/) to inform how I design, build, review, and improve applications, including code I create with AI.
+
+![OWASP](https://img.shields.io/badge/OWASP-Security_Guidance-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Security First](https://img.shields.io/badge/Approach-Security_First-156B52?style=for-the-badge&logoColor=white)
+
+My security priorities include:
+
+- 🛡️ **[OWASP Top 10:2025](https://owasp.org/www-project-top-ten/):** Awareness and review of common web application security risks.
+- 📋 **[OWASP ASVS 5.0.0](https://owasp.org/www-project-application-security-verification-standard/):** A reference for application security verification requirements.
+- 🔑 **Authentication and access control:** Protecting accounts, permissions, and sensitive functions.
+- 🔒 **Data protection:** Treating sensitive information, secrets, and integrity carefully.
+- 🧪 **Testing and validation:** Reviewing AI-assisted code rather than assuming generated code is secure.
+- 📦 **Dependency security:** Considering risks in third-party packages and integrations.
+- 🔍 **Continuous improvement:** Revisiting security as projects and threats evolve.
+
+**Security is part of the development process, not something to add at the end.** Following OWASP guidance is a development approach, not a claim that my products have been independently audited or certified.
+
+## 🧰 My Tech Stack & Creative Toolkit
+
+### 🤖 AI Development Tools
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-222222?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 💻 Programming Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🌐 Web & Application Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🖥️ Operating Systems & Platforms
+
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🎨 AI Creative & Product Content
+
+![Higgsfield AI](https://img.shields.io/badge/Higgsfield_AI-7C3AED?style=for-the-badge&logoColor=white)
+
+I explore AI-generated visuals and video to communicate product ideas, develop creative concepts, and support digital content and marketing.
+
+## 🌱 What I'm Learning & Exploring
+
+- 🤖 Artificial intelligence and intelligent automation
+- 💻 Full stack, desktop, and cross-platform application development
+- ☁️ Cloud technologies and SaaS architecture
+- 📊 Data analytics and visualization
+- 🎨 UI/UX and product design
+- 🔐 Application security, OWASP guidance, and data integrity
+- 🚀 Digital entrepreneurship and product strategy
+
+## 🎯 My Mission
+
+- 💡 Turn real-world problems into intuitive software solutions.
 - 🛠️ Build functional, scalable, and meaningful digital products.
-- 🤖 Leverage AI responsibly to accelerate software development.
-- 🌱
+- 🤖 Use AI responsibly as my primary development accelerator.
+- 🔐 Make security and quality part of the development process.
+- 🌱 Keep improving my programming knowledge and technical skills.
+- 🚀 Grow independent ideas into sustainable products.
+
+## ⚡ Beyond Technology
+
+- 🎮 Gaming and digital content creation
+- 🎵 Music production and sound design
+- 🧩 Creative problem solving and experimentation
+- 💭 Always exploring what's possible next
+
+## 🌐 Find My Work
+
+- 💻 **GitHub:** [bryleepr0510](https://github.com/bryleepr0510)
+- 🏢 **Kasmerik:** [kasmerik.com](https://www.kasmerik.com)
+- 🔬 **Vexar:** [kasmerik.com/vexar](https://www.kasmerik.com/vexar)
+
+**I don't just want to build software. I want to build something worth using.**
